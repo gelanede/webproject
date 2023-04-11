@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;		
+    }
+    #header{
+        height: 60px;
+        width: auto;
+        background: slategray;
+        text-align: center;
+    }
+    #main{
+        width: auto;
+        height: 500px;
+        background: wheat;
+        background: sienna;
+    }
+    #fieldset{
+        background: coral;
+        text-align: center;
+    }
+    #footer{
+        clear: both;
+        background: slateblue;
+        width: auto;
+        height:50px;
+        text-align: center;
+    }
